@@ -1,0 +1,8 @@
+:root {
+  --background: #FFEEC8;
+  --text-color: rgb(37, 99, 37);
+}
+*{
+  margin: 0;
+  padding: 0;
+}
